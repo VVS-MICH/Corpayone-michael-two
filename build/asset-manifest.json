@@ -1,0 +1,30 @@
+{
+  "files": {
+    "static/js/0.adfabb39.chunk.js": "/static/js/0.adfabb39.chunk.js",
+    "static/js/0.adfabb39.chunk.js.map": "/static/js/0.adfabb39.chunk.js.map",
+    "main.js": "/static/js/main.047bdf75.chunk.js",
+    "main.js.map": "/static/js/main.047bdf75.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.60a3c4b2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.60a3c4b2.js.map",
+    "static/js/3.6376a376.chunk.js": "/static/js/3.6376a376.chunk.js",
+    "static/js/3.6376a376.chunk.js.map": "/static/js/3.6376a376.chunk.js.map",
+    "static/js/4.5e40998a.chunk.js": "/static/js/4.5e40998a.chunk.js",
+    "static/js/4.5e40998a.chunk.js.map": "/static/js/4.5e40998a.chunk.js.map",
+    "static/js/5.26f58a3a.chunk.js": "/static/js/5.26f58a3a.chunk.js",
+    "static/js/5.26f58a3a.chunk.js.map": "/static/js/5.26f58a3a.chunk.js.map",
+    "static/js/6.5abe693c.chunk.js": "/static/js/6.5abe693c.chunk.js",
+    "static/js/6.5abe693c.chunk.js.map": "/static/js/6.5abe693c.chunk.js.map",
+    "static/js/7.82b251a5.chunk.js": "/static/js/7.82b251a5.chunk.js",
+    "static/js/7.82b251a5.chunk.js.map": "/static/js/7.82b251a5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/0.adfabb39.chunk.js.LICENSE.txt": "/static/js/0.adfabb39.chunk.js.LICENSE.txt",
+    "static/js/4.5e40998a.chunk.js.LICENSE.txt": "/static/js/4.5e40998a.chunk.js.LICENSE.txt",
+    "static/media/corpay-logo-black-us.a8ac896a.svg": "/static/media/corpay-logo-black-us.a8ac896a.svg",
+    "static/media/spinner.7efe2c74.svg": "/static/media/spinner.7efe2c74.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60a3c4b2.js",
+    "static/js/4.5e40998a.chunk.js",
+    "static/js/main.047bdf75.chunk.js"
+  ]
+}
